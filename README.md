@@ -19,7 +19,7 @@ A simple Flask web application to split utility bills among flatmates based on t
 2. **Create and activate a virtual environment (optional but recommended):**
    ```bash
    python -m venv venv
-   source venv/bin/activate  # On Windows: venv\Scripts\activate
+   On Windows: venv\Scripts\activate
    ```
 
 3. **Install the required packages:**
@@ -38,5 +38,3 @@ A simple Flask web application to split utility bills among flatmates based on t
    ```
    http://127.0.0.1:5000/
    ```
-
-3. Set environment variable `FLASK_APP=main.py` if needed.
